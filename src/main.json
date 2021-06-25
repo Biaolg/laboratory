@@ -1,0 +1,10 @@
+{
+    "projectName": "myApp",
+    "main": "./main.js",
+    "page": "./page",
+    "route": {
+        "index": {
+            "path": "./page/index.js"
+        }
+    }
+}
